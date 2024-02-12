@@ -6,7 +6,7 @@
 -  ela/dela
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-acordi&layout=donut&theme=synthwave" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-acordi&layout=donut&theme=dracula" />
   <img height="180em" src="https://cdn.discordapp.com/attachments/1091212179614744577/1206615082402979850/338224_7dtZM3J4.png?ex=65dca6dd&is=65ca31dd&hm=68daa7be9c698a07de5e7b28143955ffc58d8c6e4936b0693c416ba64d30543c&"/>
 </div>
 
