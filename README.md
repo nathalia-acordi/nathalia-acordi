@@ -6,7 +6,7 @@
 -  ela/dela
 
 
-<div align: center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalia-acordi&theme=synthwave" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-acordi&layout=donut&theme=synthwave" />
 </div>
