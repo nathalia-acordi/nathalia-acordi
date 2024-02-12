@@ -1,16 +1,14 @@
-### Hi there 👋
+### ✧♡ ⋆｡˚ olá! eu sou a nath ✧♡ ⋆｡˚
 
-<!--
-**nathalia-acordi/nathalia-acordi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  hoje estagio como dev fullstack, onde utilizo PHP e javascript :) 
+-  5ª fase de engenharia de software
+-  estudando react e node
+-  ela/dela
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align: center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalia-acordi&theme=synthwave" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-acordi&layout=donut&theme=synthwave" />
+</div>
+
+
