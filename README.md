@@ -1,6 +1,6 @@
 ### ✧♡ ⋆｡˚ olá! eu sou a nath ✧♡ ⋆｡˚
 
--  hoje estagio como dev fullstack, onde utilizo PHP e javascript :) 
+-  hoje sou dev back-end junior e utilizo php :) 
 -  5ª fase de engenharia de software
 -  estudando react e node
 -  ela/dela
