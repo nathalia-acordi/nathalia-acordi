@@ -1,8 +1,7 @@
 ### ✧♡ ⋆｡˚ olá! eu sou a nath ✧♡ ⋆｡˚
 
--  hoje sou dev back-end junior e utilizo php :) 
--  6ª fase de engenharia de software
--  estudando react e node
+-  hoje sou dev back-end junior
+-  7ª fase de engenharia de software
 -  ela/dela
 
 <div align="center">
