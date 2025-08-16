@@ -1,7 +1,7 @@
 ### ✧♡ ⋆｡˚ olá! eu sou a nath ✧♡ ⋆｡˚
 
 -  hoje sou dev back-end junior
--  7ª fase de engenharia de software
+-  8ª fase de engenharia de software
 -  ela/dela
 
 <div align="center">
