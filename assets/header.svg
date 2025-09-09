@@ -12,7 +12,7 @@
           display: inline-flex;
           align-items: center;
           justify-content: center;
-          gap: 1em; /* ← aumenta espaço entre nome e sobrenome */
+          gap: 2em; 
           white-space: nowrap;
           font-family: Poppins, Segoe UI, Roboto, Arial, sans-serif;
           font-weight: 800;
