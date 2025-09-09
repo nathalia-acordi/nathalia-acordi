@@ -14,17 +14,8 @@
           font-size: 64px;
           letter-spacing: .5px;
           perspective: 1000px;
-          color: #111;
-          text-shadow:
-            -1px -1px 0 #fff, 0 -1px 0 #fff, 1px -1px 0 #fff,
-            -1px  0   0 #fff, 1px  0   0 #fff,
-            -1px  1px 0 #fff, 0  1px  0 #fff, 1px  1px 0 #fff;
-          background: linear-gradient(90deg,#22d3ee,#a78bfa,#34d399);
-          -webkit-background-clip: text;
-          background-clip: text;
-          color: transparent;
-          background-size: 200% 100%;
-          animation: shine 6s ease-in-out infinite;
+          color: #000000; /* ← preto sólido */
+          text-shadow: none; /* opcional: remover o contorno branco */
         }
 
         .word, .char {
@@ -63,10 +54,6 @@
           to { transform: translate(2%, 8%) rotate(3deg); }
         }
 
-        @keyframes shine {
-          to { background-position: 200% 50%; }
-        }
-
         @media (prefers-reduced-motion: reduce) {
           .char { animation: none !important; }
           .headline { animation: none !important; }
@@ -84,7 +71,7 @@
           <span class="char" data-char="i" style="--char-index:6;">i</span>
           <span class="char" data-char="a" style="--char-index:7;">a</span>
         </span>
-        <span class="whitespace" aria-hidden="true">&nbsp;</span>
+        <span class="whitespace" aria-hidden="true"> </span>
         <span class="word" data-word="Acordi" style="--word-index:1;">
           <span class="char" data-char="A" style="--char-index:8;">A</span>
           <span class="char" data-char="c" style="--char-index:9;">c</span>
