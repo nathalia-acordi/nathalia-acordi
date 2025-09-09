@@ -1,8 +1,9 @@
-<div align="center">
-  <img align="center" width="100%" src="assets/header.svg" alt="Nathalia Acordi" />
-</div>
+<p align="center">
+  <img src="assets/header.svg?v=7" width="900" alt="Nathália Acordi — header animado" />
+</p>
 
-# Hi! I'm Nath :)
+
+# About me
 - Currently a junior back-end developer
 - 8th semester of software engineering at UDESC
 
