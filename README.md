@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/nathalia-acordi/nathalia-acordi/main/assets/header.svg?v=6" width="900" alt="Nathalia Acordi — header animado" />
+</p>
+
+<p align="center">
   <img src="https://i.redd.it/d7qsj4b6080f1.gif" alt="Welcome GIF" width="420"/>
 </p>
 
