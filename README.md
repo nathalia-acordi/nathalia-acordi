@@ -2,7 +2,7 @@
 
 # Hi! I'm Nath :)
 - Currently a junior back-end developer
-- 8th semester of software engineering
+- 8th semester of software engineering at UDESC
 
 ## Interests
 
