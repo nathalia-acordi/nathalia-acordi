@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://i.redd.it/d7qsj4b6080f1.gif" alt="Welcome GIF" width="420"/>
+</p>
 
 # Hi! I'm Nath :)
 - Currently a junior back-end developer
