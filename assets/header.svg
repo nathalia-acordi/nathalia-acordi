@@ -8,10 +8,10 @@
           display: inline-flex;
           align-items: center;
           justify-content: center;
-          white-space: nowrap;          
+          white-space: nowrap;
           font-family: Poppins, Segoe UI, Roboto, Arial, sans-serif;
           font-weight: 800;
-          font-size: 64px;              
+          font-size: 64px;
           letter-spacing: .5px;
           perspective: 1000px;
           color: #111;
@@ -19,7 +19,14 @@
             -1px -1px 0 #fff, 0 -1px 0 #fff, 1px -1px 0 #fff,
             -1px  0   0 #fff, 1px  0   0 #fff,
             -1px  1px 0 #fff, 0  1px  0 #fff, 1px  1px 0 #fff;
+          background: linear-gradient(90deg,#22d3ee,#a78bfa,#34d399);
+          -webkit-background-clip: text;
+          background-clip: text;
+          color: transparent;
+          background-size: 200% 100%;
+          animation: shine 6s ease-in-out infinite;
         }
+
         .word, .char {
           display:inline-block;
           position:relative;
@@ -33,39 +40,40 @@
           animation-timing-function: var(--tf);
           animation-fill-mode: var(--fill, forwards);
         }
-        .headline--float .char{
+
+        .headline--float .char {
           --name: float;
           --dur: 2200ms;
           --del: calc(var(--char-index) * -0.5s);
           --tf: ease-in-out;
           --dir: alternate;
         }
-        .headline--float .char:nth-child(2n){ --name: float-alt; }
 
-        @keyframes float{
-          from{ transform: translate(2%, -8%) rotate(-1deg); }
-          to  { transform: translate(-2%, 3%) rotate(3deg); }
-        }
-        @keyframes float-alt{
-          from{ transform: translate(0%, -3%) rotate(-1deg); }
-          to  { transform: translate(2%, 8%) rotate(3deg); }
+        .headline--float .char:nth-child(2n) {
+          --name: float-alt;
         }
 
-        .headline { 
-          background: linear-gradient(90deg,#22d3ee,#a78bfa,#34d399);
-          -webkit-background-clip: text; background-clip:text; color: transparent;
-          background-size: 200% 100%;
-          animation: shine 6s ease-in-out infinite;
+        @keyframes float {
+          from { transform: translate(2%, -8%) rotate(-1deg); }
+          to { transform: translate(-2%, 3%) rotate(3deg); }
         }
-        @keyframes shine { to { background-position: 200% 50%; } }
 
-        @media (prefers-reduced-motion: reduce){
-          .char{ animation: none !important; }
-          .headline{ animation: none !important; }
+        @keyframes float-alt {
+          from { transform: translate(0%, -3%) rotate(-1deg); }
+          to { transform: translate(2%, 8%) rotate(3deg); }
+        }
+
+        @keyframes shine {
+          to { background-position: 200% 50%; }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+          .char { animation: none !important; }
+          .headline { animation: none !important; }
         }
       </style>
 
-      <h2 class="headline headline--float words chars splitting" style="--word-total:2; --char-total:14;">
+      <div class="headline headline--float words chars splitting" style="--word-total:2; --char-total:14;">
         <span class="word" data-word="Nathalia" style="--word-index:0;">
           <span class="char" data-char="N" style="--char-index:0;">N</span>
           <span class="char" data-char="a" style="--char-index:1;">a</span>
@@ -85,7 +93,7 @@
           <span class="char" data-char="d" style="--char-index:12;">d</span>
           <span class="char" data-char="i" style="--char-index:13;">i</span>
         </span>
-      </h2>
+      </div>
     </div>
   </foreignObject>
 </svg>
