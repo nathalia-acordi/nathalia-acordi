@@ -83,9 +83,6 @@ I’m a backend-focused software engineering student (8th semester at UDESC) and
   <a href="https://www.linkedin.com/in/nath%C3%A1lia-acordi-0a564b223/">
     <img src="https://img.shields.io/badge/LinkedIn-Nathália%20Acordi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/5548999474620">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
 </div>
 
 ---
